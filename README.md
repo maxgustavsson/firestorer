@@ -1,3 +1,3 @@
-Boknings mockup kopplat till firestore.
+Booking mockup with firestore.
 
 https://firestorer.vercel.app
